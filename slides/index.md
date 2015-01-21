@@ -144,7 +144,7 @@
 ### paket.lock
 
 - Graph of used versions for all dependencies
-- Compareable to a unified view of all `packages.config`
+- Comparable to a unified view of all `packages.config`
 - Automatically computed from `paket.dependencies`:
 
 
@@ -167,7 +167,7 @@
 ### paket.references
 
 - Specifies which dependencies are used in a given project
-- Compareable to `packages.config`, but without versions
+- Comparable to `packages.config`, but without versions
 - Only direct dependencies need to  be listed
 - Manually editable
 
